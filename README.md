@@ -5,7 +5,7 @@ A simple desktop application built with the following tech stacks:
 - sqlite3 (database)
 
 ## How to run
-There is 2 ways to run this app, you can either go to exe folder and clicker 1 of the exe file (1 for adm and 1 for user).
+There are 2 ways of running this app, you can either go to exe folder and clicker on 1 of the exe file (1 for adm and 1 for user).
 Or type:
 
 ```
